@@ -38,5 +38,7 @@ like Cocktail party problem, market segment.
 
 The tool is [Octave online](https://octave-online.net/)
 
+PPT 1 is [here](https://d3c33hcgiwev3.cloudfront.net/_974fa7509d583eabb592839f9716fe25_Lecture1.pdf?Expires=1654992000&Signature=MtZjP2el3YKyvuHTcSdgdfU1pyD-KN-1Jcn8g-AXNMdSxQCYAbRuDeTrUO84n0LstKzq~uKMaC176elgwn4wupPCM4pdXX7lWS~PVtyGofwKPINyD431J90ld9k80fnkZdgSW2dUK6Rj4PSZI2FKZXWBaq62690xiisb7MJzkWg_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
 
 
