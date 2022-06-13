@@ -1,6 +1,6 @@
 # This is my note of machine learning 
 
-This course link is [here](https://www.coursera.org/learn/machine-learning/home/week), the famous one.
+This course link is [here](https://www.coursera.org/learn/machine-learning/home/week), the famous one by Andrew NG.
 
 ## My goal of this course
 
@@ -39,6 +39,29 @@ like Cocktail party problem, market segment.
 The tool is [Octave online](https://octave-online.net/)
 
 PPT 1 is [here](https://d3c33hcgiwev3.cloudfront.net/_974fa7509d583eabb592839f9716fe25_Lecture1.pdf?Expires=1654992000&Signature=MtZjP2el3YKyvuHTcSdgdfU1pyD-KN-1Jcn8g-AXNMdSxQCYAbRuDeTrUO84n0LstKzq~uKMaC176elgwn4wupPCM4pdXX7lWS~PVtyGofwKPINyD431J90ld9k80fnkZdgSW2dUK6Rj4PSZI2FKZXWBaq62690xiisb7MJzkWg_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+### Training set
+m = numbers of training examples
+x = input variable/features
+y = output variable/"target " variable
+(X^i,y^i),not exponentitation,but just  ith training example
+
+[hθ(x) = θ0 + θ1x](https://www.holehouse.org/mlclass/04_Linear_Regression_with_multiple_variables.html). h is shortcut for hypothesis
+
+The key problem is how to chose theta0 and theta1.
+
+**cost function**: the accuracy of hypothesis functon.
+
+The idea to choose theta0 and theta1 is h(x) fit our traning set y as close as possible,like min(hθ,y).
+
+So we choose the **Square Error** function which is useful for most regression program.
+
+
+
+MSE = $\frac{1}{n} \Sigma_{i=1}^n({y}-\hat{y})^2$. Other [mathematical-notations](https://krish9a.medium.com/mathematical-notations-for-machine-learning-markdown-5feb99e8d412)
+
+
+
 
 
 
