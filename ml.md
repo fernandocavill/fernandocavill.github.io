@@ -72,6 +72,9 @@ common algorithm to find the minium of not only j but also other functions
 
 with right simultaneous update: Fist calcus all, then assignment all. [link](https://www.coursera.org/learn/machine-learning/supplement/2GnUg/gradient-descent)
 
+derivate is something like slop. it will move towards to zero. it can have positive and negative value.
+
+gradient descent will reduce the step towards local mimnum. so,it is no nessary to change lining rate.
 
 
 
