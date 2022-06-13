@@ -60,6 +60,21 @@ So we choose the **Square Error** function which is useful for most regression p
 
 MSE = $\frac{1}{n} \Sigma_{i=1}^n({y}-\hat{y})^2$. Other [mathematical-notations](https://krish9a.medium.com/mathematical-notations-for-machine-learning-markdown-5feb99e8d412)
 
+### contour plot
+
+like a bowl shape. to draw cost functions pictures of two parameters
+
+it's hard to read and need to manual find the minimum point.
+
+### gradient descent
+
+common algorithm to find the minium of not only j but also other functions
+
+with right simultaneous update: Fist calcus all, then assignment all. [link](https://www.coursera.org/learn/machine-learning/supplement/2GnUg/gradient-descent)
+
+
+
+
 
 
 
