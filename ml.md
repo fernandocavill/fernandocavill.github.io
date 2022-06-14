@@ -76,6 +76,33 @@ derivate is something like slop. it will move towards to zero. it can have posit
 
 gradient descent will reduce the step towards local mimnum. so,it is no nessary to change lining rate.
 
+## Linear algebra
+
+1. matrix: 2d or two dimension array.
+2. vector: N * 1 matrix.
+3. matrix addition: only happen when two the same matrix 
+4. scalar multiplication: just apply the scalar number multiply every entry of the matrix.
+
+*matrix multiple vector*
+
+M * N matrix and N * 1 vector, the final one is M * 1 vector.
+each element in M * 1 vector = sum(row[ij]* M[i]) 
+ 
+*matrix multiple matrix*
+ 
+ M * N  by N * O.
+ 
+ first pull out of N * 1 vector and apply above rules. then combine the result together.
+ 
+*some property*
+
+Matrix A * B != B * A(not commutative)
+A * B * C= A * (B * C) (associate)
+identity matix = n * n and diagonal is 1 other is 0
+
+ 
+ 
+
 
 
 
