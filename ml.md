@@ -100,6 +100,9 @@ Matrix A * B != B * A(not commutative)
 A * B * C= A * (B * C) (associate)
 identity matix = n * n and diagonal is 1 other is 0
 
+matrix inverse. A * A^1 = I. A is m * m matrix.
+transpose. flip the rows and colums  of A. Bij = Aji.
+
  
  
 
