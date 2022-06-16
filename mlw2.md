@@ -33,3 +33,10 @@ when the hypothesis function is linear function which don't fit the data
 
 *feature scaling is tremendous large*
 
+## normal equation
+
+Normal equation is alternative way to calcus minJ without gradient descent.
+
+it don't need to alpha and iterate. 
+it calcus the theta and used in 10,000 n variables.
+
