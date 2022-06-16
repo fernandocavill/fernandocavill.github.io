@@ -23,3 +23,13 @@ Xi = (Xi-ui)/si, ui is the average of xi and si is the max-min.
 if alpha is large, it may not be descent, but diverge
 if alpha is too small, low convergence.
 so choose the alpha correct, and the J theta descends and flatten
+
+## polynomail Regression
+
+when the hypothesis function is linear function which don't fit the data
+
+1. choose different curve like quadratic,cube, square root
+2. combine variables like x = x1.x2
+
+*feature scaling is tremendous large*
+
