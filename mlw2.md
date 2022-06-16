@@ -18,3 +18,8 @@ So, there is a tricky if almost feature at the same range. the desceding will be
 
 Xi = (Xi-ui)/si, ui is the average of xi and si is the max-min.
 
+## how to choose alpha
+
+if alpha is large, it may not be descent, but diverge
+if alpha is too small, low convergence.
+so choose the alpha correct, and the J theta descends and flatten
