@@ -40,3 +40,8 @@ Normal equation is alternative way to calcus minJ without gradient descent.
 it don't need to alpha and iterate. 
 it calcus the theta and used in 10,000 n variables.
 
+## matrix is non-invertible
+
+1. redundant features
+2. m < n (tranings set < features)
+
