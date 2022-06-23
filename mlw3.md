@@ -29,3 +29,7 @@ if y=1 and y=0 has different functions
 
 ## advanced algorithm
  except graident descent,there are "Conjugate gradient", "BFGS", and "L-BFGS" which don't need to pick @,but more complex
+
+
+## one2many
+htx= P(Y=i;x;t) i=1,2,3
