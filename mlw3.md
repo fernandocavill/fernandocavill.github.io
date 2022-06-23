@@ -20,3 +20,12 @@ somethign like [that](https://www.coursera.org/learn/machine-learning-course/sup
 
 The *decision boundary* is the line that separates the area where y = 0 and where y = 1. It is created by our hypothesis function.
 
+
+## cost function of logistic regression
+
+$J(\Theta)$ = -$\frac{1}{m} \Sigma_{i=1}^my^ilog(\hat{y}^i) + (1-y^i)log(1-\hat{y}^i)$
+
+if y=1 and y=0 has different functions
+
+## advanced algorithm
+ except graident descent,there are "Conjugate gradient", "BFGS", and "L-BFGS" which don't need to pick @,but more complex
