@@ -39,3 +39,4 @@ htx= P(Y=i;x;t) i=1,2,3
 
 In order to avoid overfitting, 
 j = hx+^theta. don't know why theta1... close zero and ^ is big
+ looks like a quadratic function but fits the data better due
