@@ -38,4 +38,4 @@ htx= P(Y=i;x;t) i=1,2,3
 ## Regulariztion
 
 In order to avoid overfitting, 
-minj = hx+^theta. don't know why theta1... close zero and ^ is big
+j = hx+^theta. don't know why theta1... close zero and ^ is big
