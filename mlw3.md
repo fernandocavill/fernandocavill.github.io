@@ -33,3 +33,9 @@ if y=1 and y=0 has different functions
 
 ## one2many
 htx= P(Y=i;x;t) i=1,2,3
+
+
+## Regulariztion
+
+In order to avoid overfitting, 
+minj = hx+^theta. don't know why theta1... close zero and ^ is big
